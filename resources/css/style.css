@@ -21,3 +21,9 @@ h1{
         font-size:21px;
         color:gray;
     }
+
+    h3{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight:300;
+        font-size:42px;
+    }
